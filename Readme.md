@@ -26,6 +26,8 @@ cp save-selection-png.py "$PLUG_DIR/save-selection-png.py"
 chmod +x "$PLUG_DIR/save-selection-png.py"
 ```
 
+Double check [gimp dev docs](https://developer.gimp.org/resource/writing-a-plug-in/) 
+
 Restart GIMP after installing.
 
 ## Output
